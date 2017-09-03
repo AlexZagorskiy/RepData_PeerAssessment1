@@ -1,7 +1,8 @@
 
 ------------------------------------------------------------------------
 
-This is to create an .md file (remove \_): \_output: md\_document output: github\_document ---
+output: github\_document
+------------------------
 
 Assignemnt 1
 ============
